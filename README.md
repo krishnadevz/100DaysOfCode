@@ -12,7 +12,7 @@ Follow me during this challenge on
 
 ## My #100DaysOfCode Round 1 
 * my overall journey you can check on my twitter profile. but my last day(100daysofcode R1-DAY100) tweet is here 
-👇 <a href="https://twitter.com/krishnadevz/status/1254391486675853313">Tweet</a>
+👉 <a href="https://twitter.com/krishnadevz/status/1254391486675853313">Tweet</a>
 
 ## About me:
 
@@ -54,5 +54,5 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 ## Note
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to Alex on Twitter: [@ka11away](https://twitter.com/ka11away) and me to [@krishnadevz](https://twitter.com/krishnadevz)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
