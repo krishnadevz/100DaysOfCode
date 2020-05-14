@@ -1,6 +1,6 @@
-# I've joined the #100DaysOfCode Challenge
+# I've completed the #100DaysOfCode Challenge Now Doing Round2
 Follow me during this challenge on 
-| [instagram.com](https://www.instagram.com/doger83_dev) | [twitter.com](https://twitter.com/Doger83_Dev) |
+ | [twitter.com](https://twitter.com/krishnadevz) 
    
 
 ## Contents
@@ -10,18 +10,25 @@ Follow me during this challenge on
 * [FAQ](FAQ.md)
 * [Resources](Files/resources.md)
 
+## My #100DaysOfCode Round 1 
+* my overall journey you can check on my twitter profile. but my last day(100daysofcode R1-DAY100) tweet is here 👉 https://twitter.com/krishnadevz/status/1254391486675853313
 
 ## About me:
 
-Hello my name is Dominic Gerweck,
+Hello my name is krishna kakade,
 
-I am 36 years young, living in the small village Kirchlinteln in the district of Verden (Aller) in Lower Saxony. I live here since August 2017.
-In the summer of 2019 I became aware of the topic "programming" by a good friend. I started with great curiosity first to gather general information.
-Quickly I decided for the programming language "C#".
+I am 20 years old i am from india i love to write and building things related to webdevelopment and i learning MERN stack developer and 
+I'm Third Year CSE undergrad student My Passion is For Computers in all kind of Perspectives .I am Learning FullStack Developer(MERN🧱) 
+and i also like to Contribute opensource projects 👉🔧.I buid ⚙ things/Projects related to Web Devlopment/FrameWorks(React❤)👉On
+<a href="https://github.com/krishnadevz" target="_blank" rel="noopener noreferrer" ><Button variant="dark" className="btn">Github</Button></a>
+I also write things about web Development and reactjs Crossed 7.5K+Views👉On 
+<a href="https://dev.to/krishnakakade" target="_blank"><Button variant="dark" className="btn">Dev.to</Button></a>
+Connect me Professionally 👉On<a href="https://www.linkedin.com/in/krishna-kakade-014a70149/" rel="noopener noreferrer"  target="_blank"><Button variant="dark" className="btn">LinkedIn</Button></a>
+I Crossed 9.1K Views👉On<a href="https://www.quora.com/profile/Krishna-Kakade-2" rel="noopener noreferrer" target="_blank"><Button variant="dark" className="btn">Quora</Button></a>
+<b><br></br>
 
-In the first few weeks I have already gained a lot of practical experience in the ".net Framework" area. I've completed several online tutorials and practice daily online coding challanges.
 
-Now I want to use this 100 day challenge to apply and develop my knowledge and skills in programming.
+Now I want to use this 100 day challenge round 2 apply and develop my knowledge and skills in programming.
 
 ## If you've decided to join:
 
