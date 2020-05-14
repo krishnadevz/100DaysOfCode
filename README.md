@@ -11,7 +11,8 @@ Follow me during this challenge on
 * [Resources](Files/resources.md)
 
 ## My #100DaysOfCode Round 1 
-* my overall journey you can check on my twitter profile. but my last day(100daysofcode R1-DAY100) tweet is here 👉 https://twitter.com/krishnadevz/status/1254391486675853313
+* my overall journey you can check on my twitter profile. but my last day(100daysofcode R1-DAY100) tweet is here 
+👇 <a href="https://twitter.com/krishnadevz/status/1254391486675853313">Tweet</a>
 
 ## About me:
 
